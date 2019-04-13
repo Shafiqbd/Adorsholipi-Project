@@ -1,0 +1,53 @@
+Shorborbo:
+
+Main:
+
+Character: Height-2.5 in
+	Width-2.5 in
+
+Font-Size-150
+Colour-12ca2c
+
+
+
+Over:
+
+Character: Height-2.5 in
+	Width-2.5 in
+
+Font-Size-150
+Colour-2c1df2
+
+BanjonBorno:
+
+Main:
+
+Character: Height-2.5 in
+	Width-2.5 in
+
+Font-Size-150
+Colour-da00d7
+
+
+
+Over:
+
+Character: Height-2.5 in
+	Width-2.5 in
+
+Font-Size-150
+Colour-1edde4
+
+
+Botton:
+Image 1:
+Colour: cc0cce
+Image2:
+Colour: 40d9eb
+
+English:
+Main: 
+	Color: 26f02f
+
+Over:
+	Color: ff1af2
